@@ -1,6 +1,6 @@
-let selectedText = "nama saya"
-let changedText = "nama kamu"
-let text = "nama saya adalah abdullah hasan mufid fakhri"
+let selectedText = "mencintai"
+let changedText = "membenci"
+let text = "Andini sangat mencintai Kamu selamanya"
 // let kalimat1 = "nama saya abdullah hasan mufid fakhri"
 
 // let str = "selamat datang di jakarta"
